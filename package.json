@@ -1,0 +1,19 @@
+{
+  "name": "node-basico",
+  "version": "1.0.0",
+  "description": "curso basico de node por ipcoders :)",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "em6"
+  ],
+  "author": "sebasdev92",
+  "license": "ISC",
+  "dependencies": {
+    "colorette": "^2.0.20"
+  }
+}
